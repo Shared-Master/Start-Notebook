@@ -10,6 +10,8 @@ The first step is to have a place to keep track of all of your awesome ideas. No
 
 Start every day by picking up your notebook. Then take a few minutes to review your notes and get a page started for today.
 
+Your notebook counts for {{site.data.assignment.notebook-percent}} percent of your grade.
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
