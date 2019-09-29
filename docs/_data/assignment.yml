@@ -3,5 +3,5 @@
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
 outcome:   
-slides:
+slides: https://docs.google.com/presentation/d/1ZD3hHQDMGDl_fnUc9-8Dv7gQEpxUwNwPNfOyE6Bfx0M/edit?usp=sharing
 template:
