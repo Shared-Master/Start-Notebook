@@ -2,6 +2,7 @@
 #
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
-outcome:   
+outcome: You will have your notebook started with your name on the cover, and you'll know my expectations for how and when to take notes (in a way that works for you, often).
 slides: https://docs.google.com/presentation/d/1ZD3hHQDMGDl_fnUc9-8Dv7gQEpxUwNwPNfOyE6Bfx0M/edit?usp=sharing
 template:
+assignment.notebook-percent: 10
